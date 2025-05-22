@@ -12,3 +12,4 @@ This Powe BI dashboard reflects all relevant Key Performance Indicators (KPIs) a
 • Average speed of answer 
 • Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+<img width="1437" alt="Goodcravingz.com" src="">
