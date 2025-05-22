@@ -12,4 +12,4 @@ This PowerBi dashboard reflects all relevant Key Performance Indicators (KPIs) a
 • Average speed of answer 
 • Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-<img width="1437" alt="Goodcravingz.com" src="https://github.com/SamBami01/PwC-Call-Centre-Analysis-PowerBi/blob/main/Call-Center-%20Analysis%20Samuel%20Bamidele.pdf">
+<img width="1437" src="https://github.com/SamBami01/PwC-Call-Centre-Analysis-PowerBi/blob/main/Call-Center-%20Analysis%20Samuel%20Bamidele.pdf">
