@@ -2,9 +2,9 @@
 
 Visualising customer and agent behaviour.
 
-Enjoyed working on this project because it gave me insight on understanding how calls and call agent manage their time across various departments.
+I enjoyed working on this project because it gave me insight into how callers and call agents manage their time across various departments.
 
-This Powe BI dashboard reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+This PowerBi dashboard reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 • Overall customer satisfaction 
 • Overall calls answered/abandoned 
